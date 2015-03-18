@@ -5870,3 +5870,34 @@ Processing by HomeController#index as HTML
   [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 14]]
   Rendered home/index.html.erb within layouts/application (0.7ms)
 Completed 200 OK in 61ms (Views: 61.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 15:43:51 -0700
+Processing by HomeController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 14]]
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 69ms (Views: 68.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/log-out" for ::1 at 2015-03-18 15:43:59 -0700
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 15:43:59 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 61ms (Views: 61.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 15:44:03 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 63ms (Views: 62.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/new" for ::1 at 2015-03-18 15:44:08 -0700
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 61ms (Views: 60.5ms | ActiveRecord: 0.0ms)
