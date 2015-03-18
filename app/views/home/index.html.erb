@@ -1,0 +1,12 @@
+<div class="container">
+<% if current_user %>
+  Welcome, <%= current_user.email%>!
+  <button><%= link_to 'Logout', log_out_path(@user) %></button>
+  <% end %>
+
+<h1>Photo Sharing!</h1>
+<h2> this file is in the views/home folder </h2>
+
+<button><%= link_to 'Create Account', new_user_path(@user) %></button>
+<button><%= link_to 'Login', log_in_path(@user) %></button>
+</div>

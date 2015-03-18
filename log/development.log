@@ -2482,3 +2482,2631 @@ Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?bod
 
 
 Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 11:48:10 -0700
+
+
+Started GET "/" for ::1 at 2015-03-18 13:15:08 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.0ms)
+Completed 200 OK in 61ms (Views: 60.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 13:15:08 -0700
+
+
+Started GET "/" for ::1 at 2015-03-18 13:55:33 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.6ms)
+Completed 200 OK in 65ms (Views: 64.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 13:55:33 -0700
+
+
+Started GET "/users/new" for ::1 at 2015-03-18 13:55:35 -0700
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 80ms (Views: 78.2ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/users/new" for ::1 at 2015-03-18 14:01:18 -0700
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 62ms (Views: 61.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for ::1 at 2015-03-18 14:05:37 -0700
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"sIstH3zkeIZHjALstQQR/jAAm3OqrUBMpAHmLsBTCseWZ4ns4wGONMgSPQelvNajLRFz0UfSW++dwpOBfmgzrQ==", "user"=>{"email"=>"joe@joe.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign Up"}
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("email", "password_salt", "password_hash", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["email", "joe@joe.com"], ["password_salt", "$2a$10$vO2EeOE4gg8xAIPOkPyOcu"], ["password_hash", "$2a$10$vO2EeOE4gg8xAIPOkPyOcuEPlFNjq3eua.hqMYODGJstpqPkcGbUa"], ["created_at", "2015-03-18 21:05:37.721272"], ["updated_at", "2015-03-18 21:05:37.721272"]]
+  [1m[35m (0.7ms)[0m  COMMIT
+Redirected to http://localhost:3000/
+Completed 302 Found in 66ms (ActiveRecord: 1.2ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:05:37 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.4ms)
+Completed 200 OK in 62ms (Views: 62.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:05:37 -0700
+
+
+Started GET "/" for ::1 at 2015-03-18 14:18:16 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (9.1ms)
+Completed 500 Internal Server Error in 12ms
+
+ActionView::Template::Error (undefined local variable or method `log' for #<#<Class:0x007fda22a6a758>:0x007fda25db2c00>):
+    5: 
+    6: <button><%= link_to 'Create Account', new_user_path(@user) %></button>
+    7: <button><%= link_to 'Login', log_in_path(@user) %></button>
+    8: <button><%= link_to 'Logout', log-out_path(@user) %></button>
+    9: </div>
+  app/views/home/index:8:in `_app_views_home_index__1264894872977127248_70287457342920'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.5ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (45.4ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (36.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (83.1ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:18:49 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.6ms)
+Completed 200 OK in 61ms (Views: 60.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:18:49 -0700
+
+
+Started GET "/log-out" for ::1 at 2015-03-18 14:18:55 -0700
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:18:55 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.9ms)
+Completed 200 OK in 60ms (Views: 60.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/log-out" for ::1 at 2015-03-18 14:18:56 -0700
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:18:56 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.3ms)
+Completed 200 OK in 64ms (Views: 63.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/log-out" for ::1 at 2015-03-18 14:18:57 -0700
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:18:57 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.3ms)
+Completed 200 OK in 66ms (Views: 65.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/log-out" for ::1 at 2015-03-18 14:18:58 -0700
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:18:58 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.3ms)
+Completed 200 OK in 64ms (Views: 64.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/log-out" for ::1 at 2015-03-18 14:18:58 -0700
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:18:58 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.3ms)
+Completed 200 OK in 65ms (Views: 64.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/log-out" for ::1 at 2015-03-18 14:18:59 -0700
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:18:59 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.3ms)
+Completed 200 OK in 64ms (Views: 64.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:19:00 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 66ms (Views: 65.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/log-in" for ::1 at 2015-03-18 14:19:12 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"KPLiZoLGa1orLvCnLPMwzzKIeI79/kvXTvWCVYLdrb8OHkaVHSOd6KSwz0w8S/eSL5mQLBCBUHR3Nvf6POaU1Q==", "email"=>"blahblahblah@gmail.com", "password"=>"[FILTERED]", "commit"=>"Log in"}
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["email", "blahblahblah@gmail.com"]]
+Redirected to http://localhost:3000/log-in
+Completed 302 Found in 5ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:19:12 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 64ms (Views: 64.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:19:12 -0700
+
+
+Started GET "/" for ::1 at 2015-03-18 14:19:21 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.9ms)
+Completed 200 OK in 68ms (Views: 67.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/new" for ::1 at 2015-03-18 14:19:22 -0700
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 65ms (Views: 64.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for ::1 at 2015-03-18 14:19:38 -0700
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"GCxhH/QMutU0v8Uf5KmkWZfgoc4wQeKRiXm1U8KJIno+wMXsa+lMZ7sh+vT0EWMEivFJbN0++TKwusD8fLIbEA==", "user"=>{"email"=>"joe@joe.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign Up"}
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("email", "password_salt", "password_hash", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["email", "joe@joe.com"], ["password_salt", "$2a$10$j1xK9C9M0yikBUBcd0lQlu"], ["password_hash", "$2a$10$j1xK9C9M0yikBUBcd0lQluzcjzv8GgkQXLbFVXgX/V7UN6wixudN6"], ["created_at", "2015-03-18 21:19:38.966459"], ["updated_at", "2015-03-18 21:19:38.966459"]]
+  [1m[35m (71.5ms)[0m  COMMIT
+Redirected to http://localhost:3000/
+Completed 302 Found in 134ms (ActiveRecord: 71.9ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:19:39 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.3ms)
+Completed 200 OK in 65ms (Views: 64.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:19:39 -0700
+
+
+Started GET "/log-out" for ::1 at 2015-03-18 14:19:44 -0700
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:19:44 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.4ms)
+Completed 200 OK in 63ms (Views: 62.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/new" for ::1 at 2015-03-18 14:19:54 -0700
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 86ms (Views: 85.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:19:56 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 70ms (Views: 69.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/log-in" for ::1 at 2015-03-18 14:20:03 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5QC5GVjr3bfjhft9yatUMbknrTGwZW3gk4b4hS5tyUPD7B3qxw4rBWwbxJbZE5NspDZFk10adkOqRY0qkFbwKQ==", "email"=>"joe@joe.com", "password"=>"[FILTERED]", "commit"=>"Log in"}
+  [1m[36mUser Load (0.6ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["email", "joe@joe.com"]]
+Redirected to http://localhost:3000/log-in
+Completed 302 Found in 64ms (ActiveRecord: 0.6ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:20:03 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 66ms (Views: 66.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:20:03 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:20:03 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:20:03 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:20:03 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:20:03 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:20:03 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:20:03 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:20:03 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:20:03 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:20:03 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:20:03 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:20:03 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:20:04 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:20:04 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:20:04 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:20:04 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:20:04 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:20:04 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:20:04 -0700
+
+
+Started GET "/" for ::1 at 2015-03-18 14:20:11 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.4ms)
+Completed 200 OK in 65ms (Views: 65.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:20:12 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.3ms)
+Completed 200 OK in 64ms (Views: 63.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:20:12 -0700
+
+
+Started GET "/" for ::1 at 2015-03-18 14:20:44 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.3ms)
+Completed 200 OK in 64ms (Views: 63.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:20:44 -0700
+
+
+Started GET "/log-out" for ::1 at 2015-03-18 14:20:45 -0700
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:20:45 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.3ms)
+Completed 200 OK in 64ms (Views: 63.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/log-out" for ::1 at 2015-03-18 14:20:45 -0700
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:20:45 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.3ms)
+Completed 200 OK in 65ms (Views: 64.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/new" for ::1 at 2015-03-18 14:20:46 -0700
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 66ms (Views: 65.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for ::1 at 2015-03-18 14:20:53 -0700
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"G6vkSfPN9VFEdZ/h2rUj7zXK1qLf6Um1VvBP85r5OlI9R0C6bCgD48vroArKDeSyKNs+ADKWUhZvMzpcJMIDOA==", "user"=>{"email"=>"joe@joe.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign Up"}
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "password_salt", "password_hash", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["email", "joe@joe.com"], ["password_salt", "$2a$10$yl/e8QJGJGUSBYRtGjoId."], ["password_hash", "$2a$10$yl/e8QJGJGUSBYRtGjoId.LR2c.L9lZAO8/cbbc2yYCfLFQCvLkdO"], ["created_at", "2015-03-18 21:20:53.310282"], ["updated_at", "2015-03-18 21:20:53.310282"]]
+  [1m[35m (0.7ms)[0m  COMMIT
+Redirected to http://localhost:3000/
+Completed 302 Found in 62ms (ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:20:53 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.3ms)
+Completed 200 OK in 64ms (Views: 63.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:20:53 -0700
+
+
+Started GET "/log-out" for ::1 at 2015-03-18 14:20:59 -0700
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:20:59 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.3ms)
+Completed 200 OK in 64ms (Views: 63.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/new" for ::1 at 2015-03-18 14:21:00 -0700
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 64ms (Views: 64.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for ::1 at 2015-03-18 14:21:09 -0700
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Qwb+lUJuySMhyqqlhyGclpIrklG9SrvGgwaJLpXQ7xll6lpm3Ys/ka5UlU6XmVvLjzp681A1oGW6xfyBK+vWcw==", "user"=>{"email"=>"joe@joe.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign Up"}
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Redirected to http://localhost:3000/users/new
+Completed 302 Found in 2ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/users/new" for ::1 at 2015-03-18 14:21:09 -0700
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 65ms (Views: 64.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:21:09 -0700
+
+
+Started POST "/users" for ::1 at 2015-03-18 14:21:14 -0700
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"2VPITTI2GABoSImFYJ/TyZwexTJkiT5CoRkW/U8Q4Tb/v2y+rdPusufWtm5wJxSUgQ8tkIn2JeGY2mNS8SvYXA==", "user"=>{"email"=>"fhgh", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign Up"}
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Redirected to http://localhost:3000/users/new
+Completed 302 Found in 2ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/users/new" for ::1 at 2015-03-18 14:21:14 -0700
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 78ms (Views: 77.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:21:15 -0700
+
+
+Started POST "/users" for ::1 at 2015-03-18 14:21:19 -0700
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"AasIedA+pJJg4ZyNAbkV4DpJHYJnFwu5VL7AvHz46LYnR6yKT9tSIO9/o2YRAdK9J1j1IIpoEBptfbUTwsPR3A==", "user"=>{"email"=>"ertert", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign Up"}
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "users" ("email", "password_salt", "password_hash", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"  [["email", "ertert"], ["password_salt", "$2a$10$vBTGrFz2oWc6AjIjDvOhVe"], ["password_hash", "$2a$10$vBTGrFz2oWc6AjIjDvOhVeR6gBqCPpIEo918qCqvYkU.jumtyD4dG"], ["created_at", "2015-03-18 21:21:19.203662"], ["updated_at", "2015-03-18 21:21:19.203662"]]
+  [1m[36m (0.6ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 64ms (ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:21:19 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.3ms)
+Completed 200 OK in 67ms (Views: 66.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:21:19 -0700
+
+
+Started GET "/users/new" for ::1 at 2015-03-18 14:21:29 -0700
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 65ms (Views: 64.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for ::1 at 2015-03-18 14:21:32 -0700
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"hvfLg4V+aGAhUOv6xdjqxlk3FVTO9DJluh7CQwkYxLugG29wGpue0q7O1BHVYC2bRCb99iOLKcaD3bfstyP90Q==", "user"=>{"email"=>"ertert", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign Up"}
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+Redirected to http://localhost:3000/users/new
+Completed 302 Found in 2ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/users/new" for ::1 at 2015-03-18 14:21:32 -0700
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 67ms (Views: 66.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:21:32 -0700
+
+
+Started POST "/users" for ::1 at 2015-03-18 14:21:38 -0700
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"EUq9gIP35V82Hleh6K5iJC2PZPE8KWBmnwKqGXMrWgc3phlzHBIT7bmAaEr4FqV5MJ6MU9FWe8Wmwd+2zRBjbQ==", "user"=>{"email"=>"rtert", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign Up"}
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "password_salt", "password_hash", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["email", "rtert"], ["password_salt", "$2a$10$6RBIaBUNHC0yu0izqetNGu"], ["password_hash", "$2a$10$6RBIaBUNHC0yu0izqetNGukMehxhQqGnOiEwrHNGKAwcAR5Kx1k7."], ["created_at", "2015-03-18 21:21:38.260111"], ["updated_at", "2015-03-18 21:21:38.260111"]]
+  [1m[35m (0.6ms)[0m  COMMIT
+Redirected to http://localhost:3000/
+Completed 302 Found in 63ms (ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:21:38 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.3ms)
+Completed 200 OK in 63ms (Views: 62.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:21:38 -0700
+
+
+Started GET "/" for ::1 at 2015-03-18 14:28:55 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (8.2ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (undefined local variable or method `user' for #<#<Class:0x007fda22a6a758>:0x007fda258fb5e0>):
+    1: <div class="container">
+    2: Welcome, <%= user.email %>!
+    3: 
+    4: <h1>Photo Sharing!</h1>
+    5: <h2> this file is in the views/home folder </h2>
+  app/views/home/index:2:in `_app_views_home_index__1264894872977127248_70287454869500'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (43.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (3.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (34.6ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (79.5ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:29:28 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (2.1ms)
+Completed 500 Internal Server Error in 5ms
+
+ActionView::Template::Error (undefined method `email' for nil:NilClass):
+    1: <div class="container">
+    2: Welcome, <%= @user.email %>!
+    3: 
+    4: <h1>Photo Sharing!</h1>
+    5: <h2> this file is in the views/home folder </h2>
+  app/views/home/index:2:in `_app_views_home_index__1264894872977127248_70287463161580'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.5ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (43.8ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (34.8ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (77.6ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:30:58 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.7ms)
+Completed 200 OK in 61ms (Views: 60.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:30:58 -0700
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:31:00 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 65ms (Views: 65.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/log-in" for ::1 at 2015-03-18 14:31:09 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5pIVKJhvdMht2AQjWdmvwWUbTA4oTlyBkPGsUjN/HjfAfrHbB4qCeuJGO8hJYWiceAqkrMUxRyKpMtn9jUQnXQ==", "email"=>"joe@joe.com", "password"=>"[FILTERED]", "commit"=>"Log in"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["email", "joe@joe.com"]]
+Redirected to http://localhost:3000/log-in
+Completed 302 Found in 62ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:31:09 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 65ms (Views: 64.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:31:09 -0700
+
+
+Started GET "/" for ::1 at 2015-03-18 14:31:14 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (0.3ms)
+Completed 200 OK in 64ms (Views: 63.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:31:14 -0700
+
+
+Started GET "/" for ::1 at 2015-03-18 14:31:35 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (1.9ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (undefined method `email' for nil:NilClass):
+    1: <div class="container">
+    2: Welcome, <%= @user.email %>!
+    3: 
+    4: <h1>Photo Sharing!</h1>
+    5: <h2> this file is in the views/home folder </h2>
+  app/views/home/index:2:in `_app_views_home_index__1264894872977127248_70287458047120'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.5ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (43.6ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (34.6ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (77.4ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:32:11 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (2.1ms)
+Completed 500 Internal Server Error in 5ms
+
+ActionView::Template::Error (undefined method `email' for nil:NilClass):
+    1: <div class="container">
+    2: Welcome, <%= @current_user.email %>!
+    3: 
+    4: <h1>Photo Sharing!</h1>
+    5: <h2> this file is in the views/home folder </h2>
+  app/views/home/index:2:in `_app_views_home_index__1264894872977127248_70287454706960'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.9ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (48.1ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (35.6ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (77.7ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:32:21 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (1.7ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (undefined method `email' for nil:NilClass):
+    1: <div class="container">
+    2: Welcome, <%= @current_user.email %>!
+    3: 
+    4: <h1>Photo Sharing!</h1>
+    5: <h2> this file is in the views/home folder </h2>
+  app/views/home/index:2:in `_app_views_home_index__1264894872977127248_70287454706960'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.4ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (43.5ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (34.8ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (77.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:33:57 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (2.2ms)
+Completed 500 Internal Server Error in 5ms
+
+ActionView::Template::Error (undefined method `email' for nil:NilClass):
+    1: <div class="container">
+    2: Welcome, <%= current_user.email %>!
+    3: 
+    4: <h1>Photo Sharing!</h1>
+    5: <h2> this file is in the views/home folder </h2>
+  app/views/home/index:2:in `_app_views_home_index__1264894872977127248_70287455011700'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.4ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (43.6ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (35.1ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (78.2ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:33:58 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (1.6ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (undefined method `email' for nil:NilClass):
+    1: <div class="container">
+    2: Welcome, <%= current_user.email %>!
+    3: 
+    4: <h1>Photo Sharing!</h1>
+    5: <h2> this file is in the views/home folder </h2>
+  app/views/home/index:2:in `_app_views_home_index__1264894872977127248_70287455011700'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.9ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (43.9ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (34.1ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (75.9ms)
+
+
+Started PUT "/console/repl_sessions/4682edd1135a4e7873607117dad0010a" for ::1 at 2015-03-18 14:34:10 -0700
+
+
+Started PUT "/console/repl_sessions/4682edd1135a4e7873607117dad0010a" for ::1 at 2015-03-18 14:34:14 -0700
+
+
+Started PUT "/console/repl_sessions/4682edd1135a4e7873607117dad0010a" for ::1 at 2015-03-18 14:34:36 -0700
+
+
+Started PUT "/console/repl_sessions/4682edd1135a4e7873607117dad0010a" for ::1 at 2015-03-18 14:34:57 -0700
+
+
+Started PUT "/console/repl_sessions/4682edd1135a4e7873607117dad0010a" for ::1 at 2015-03-18 14:35:04 -0700
+
+
+Started PUT "/console/repl_sessions/4682edd1135a4e7873607117dad0010a" for ::1 at 2015-03-18 14:35:07 -0700
+
+
+Started PUT "/console/repl_sessions/4682edd1135a4e7873607117dad0010a" for ::1 at 2015-03-18 14:35:18 -0700
+
+
+Started GET "/" for ::1 at 2015-03-18 14:37:02 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (8.5ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (undefined local variable or method `users' for #<#<Class:0x007fda22a6a758>:0x007fda21f41318>):
+    1: <div class="container">
+    2: Welcome, <%= users.email %>!
+    3: 
+    4: <h1>Photo Sharing!</h1>
+    5: <h2> this file is in the views/home folder </h2>
+  app/views/home/index:2:in `_app_views_home_index__1264894872977127248_70287424386780'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (49.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (35.6ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (80.2ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:37:04 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (9.8ms)
+Completed 500 Internal Server Error in 13ms
+
+ActionView::Template::Error (undefined local variable or method `users' for #<#<Class:0x007fda22a6a758>:0x007fda25a11f38>):
+    1: <div class="container">
+    2: Welcome, <%= users.email %>!
+    3: 
+    4: <h1>Photo Sharing!</h1>
+    5: <h2> this file is in the views/home folder </h2>
+  app/views/home/index:2:in `_app_views_home_index__1264894872977127248_70287424386780'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (43.1ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (34.9ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (77.2ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:37:43 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (1.9ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (undefined method `email' for nil:NilClass):
+    1: <div class="container">
+    2: Welcome, <%= @users.email %>!
+    3: 
+    4: <h1>Photo Sharing!</h1>
+    5: <h2> this file is in the views/home folder </h2>
+  app/views/home/index:2:in `_app_views_home_index__1264894872977127248_70287431709400'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.9ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (44.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (35.9ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (79.1ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:37:44 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (1.8ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (undefined method `email' for nil:NilClass):
+    1: <div class="container">
+    2: Welcome, <%= @users.email %>!
+    3: 
+    4: <h1>Photo Sharing!</h1>
+    5: <h2> this file is in the views/home folder </h2>
+  app/views/home/index:2:in `_app_views_home_index__1264894872977127248_70287431709400'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (43.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (35.1ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (77.8ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:37:54 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (2.2ms)
+Completed 500 Internal Server Error in 5ms
+
+ActionView::Template::Error (undefined method `email' for nil:NilClass):
+    1: <div class="container">
+    2: Welcome, <%= @user.email %>!
+    3: 
+    4: <h1>Photo Sharing!</h1>
+    5: <h2> this file is in the views/home folder </h2>
+  app/views/home/index:2:in `_app_views_home_index__1264894872977127248_70287464697920'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (44.9ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (36.4ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (79.5ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:38:19 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (2.3ms)
+Completed 500 Internal Server Error in 5ms
+
+ActionView::Template::Error (undefined method `email' for nil:NilClass):
+    1: <div class="container">
+    2: Welcome, <%= @current_user.email %>!
+    3: 
+    4: <h1>Photo Sharing!</h1>
+    5: <h2> this file is in the views/home folder </h2>
+  app/views/home/index:2:in `_app_views_home_index__1264894872977127248_70287419731340'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.8ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (44.8ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (35.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (78.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:38:26 -0700
+Processing by HomeController#index as HTML
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+DEPRECATION WARNING: The file /Users/Guest/Desktop/photoshare/app/views/home/index did not specify a template handler. The default is currently ERB, but will change to RAW in the future. (called from realtime at /opt/rubies/ruby-2.2.0/lib/ruby/2.2.0/benchmark.rb:303)
+  Rendered home/index within layouts/application (1.7ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (undefined method `email' for nil:NilClass):
+    1: <div class="container">
+    2: Welcome, <%= @current_user.email %>!
+    3: 
+    4: <h1>Photo Sharing!</h1>
+    5: <h2> this file is in the views/home folder </h2>
+  app/views/home/index:2:in `_app_views_home_index__1264894872977127248_70287419731340'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.8ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (43.9ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (35.6ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (78.1ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:43:17 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.8ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (undefined method `email' for nil:NilClass):
+    1: <div class="container">
+    2: Welcome, <%= @current_user.email %>!
+    3: 
+    4: <h1>Photo Sharing!</h1>
+    5: <h2> this file is in the views/home folder </h2>
+  app/views/home/index.html.erb:2:in `_app_views_home_index_html_erb___759485101999822056_70287456293560'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.4ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (48.6ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (34.8ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (77.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:43:18 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.6ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (undefined method `email' for nil:NilClass):
+    1: <div class="container">
+    2: Welcome, <%= @current_user.email %>!
+    3: 
+    4: <h1>Photo Sharing!</h1>
+    5: <h2> this file is in the views/home folder </h2>
+  app/views/home/index.html.erb:2:in `_app_views_home_index_html_erb___759485101999822056_70287456293560'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.6ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (44.1ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (35.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (77.5ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:44:28 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.8ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (undefined method `email' for nil:NilClass):
+    1: <div class="container">
+    2: Welcome, <%= current_user.email %>!
+    3: 
+    4: <h1>Photo Sharing!</h1>
+    5: <h2> this file is in the views/home folder </h2>
+  app/views/home/index.html.erb:2:in `_app_views_home_index_html_erb___759485101999822056_70287456602100'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (9.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (48.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (35.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (77.8ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:44:57 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 60ms (Views: 59.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:44:58 -0700
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:45:05 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 58ms (Views: 57.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/log-in" for ::1 at 2015-03-18 14:45:14 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"bmMYqwFt8zCgJAHmHJPOzl3OU0fPgVhSKO6WdHH5yuBIj7xYnogFgi+6Pg0MKwmTQN+75SL+Q/ERLePbz8Lzig==", "email"=>"joe@joe.com", "password"=>"[FILTERED]", "commit"=>"Log in"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1  [["email", "joe@joe.com"]]
+Redirected to http://localhost:3000/log-in
+Completed 302 Found in 62ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:45:14 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 62ms (Views: 62.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:45:14 -0700
+
+
+Started GET "/" for ::1 at 2015-03-18 14:45:21 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 60ms (Views: 59.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:45:21 -0700
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:45:29 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 52ms (Views: 52.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/log-in" for ::1 at 2015-03-18 14:45:35 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"4KtYuAO+VQav1Icssrb/0L9lX8EdZ4f1IuJqcGCprsnGR/xLnFujtCBKuMeiDjiNonS3Y/AYnFYbIR/f3pKXow==", "email"=>"joe@joe.com", "password"=>"[FILTERED]", "commit"=>"Log in"}
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["email", "joe@joe.com"]]
+Redirected to http://localhost:3000/log-in
+Completed 302 Found in 62ms (ActiveRecord: 0.3ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:45:35 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 72ms (Views: 71.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:45:35 -0700
+
+
+Started GET "/" for ::1 at 2015-03-18 14:48:33 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 68ms (Views: 67.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:48:35 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 57ms (Views: 56.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/" for ::1 at 2015-03-18 14:48:35 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 60ms (Views: 59.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:48:35 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:48:36 -0700
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:48:37 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 56ms (Views: 56.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/log-in" for ::1 at 2015-03-18 14:48:42 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"n8Ah92OOgBKhvksmgwipqhEiF35UdmAd8+Xjm5g8EiW5LIUE/Gt2oC4gdM2TsG73DDP/3LkJe77KJpY0JgcrTw==", "email"=>"joe@joe.com", "password"=>"[FILTERED]", "commit"=>"Log in"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1  [["email", "joe@joe.com"]]
+Redirected to http://localhost:3000/log-in
+Completed 302 Found in 62ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:48:42 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 66ms (Views: 66.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-140ebd8ac0cfe741490a4008959b4aed.css?body=1" for ::1 at 2015-03-18 14:48:42 -0700
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-03-18 14:48:42 -0700
+
+
+Started GET "/assets/bootstrap/affix-86647d01ace516e05ddf78d2b6e85e20.js?body=1" for ::1 at 2015-03-18 14:48:42 -0700
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-03-18 14:48:42 -0700
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-03-18 14:48:43 -0700
+
+
+Started GET "/assets/bootstrap-5a61ba7b5948ffe8937e1c95dfd3f8a1.js?body=1" for ::1 at 2015-03-18 14:48:43 -0700
+
+
+Started GET "/assets/bootstrap/alert-2a2796d28d7833f423ee421a3ad297bb.js?body=1" for ::1 at 2015-03-18 14:48:43 -0700
+
+
+Started GET "/assets/bootstrap/button-6b326d9b5034209f30109e77c264a190.js?body=1" for ::1 at 2015-03-18 14:48:43 -0700
+
+
+Started GET "/assets/bootstrap/carousel-31dbb9c732fc2da02b8d5a97d9ae0047.js?body=1" for ::1 at 2015-03-18 14:48:43 -0700
+
+
+Started GET "/assets/bootstrap/collapse-624b0c6035c65b5be6ae581d8dc4e196.js?body=1" for ::1 at 2015-03-18 14:48:43 -0700
+
+
+Started GET "/assets/bootstrap/dropdown-ce1bbc536745c41510513f7274f9897c.js?body=1" for ::1 at 2015-03-18 14:48:43 -0700
+
+
+Started GET "/assets/bootstrap/modal-77a0e72df31a788e4f6a3f28370eb69e.js?body=1" for ::1 at 2015-03-18 14:48:43 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy-3892c697f57b7e7b9d5993044235a210.js?body=1" for ::1 at 2015-03-18 14:48:43 -0700
+
+
+Started GET "/assets/bootstrap/tab-6f45b70c6440bd0222c171dd7a926b5d.js?body=1" for ::1 at 2015-03-18 14:48:43 -0700
+
+
+Started GET "/assets/bootstrap/transition-264673896da1e31c3b865db964cd6592.js?body=1" for ::1 at 2015-03-18 14:48:43 -0700
+
+
+Started GET "/assets/bootstrap/tooltip-718496fb53635605964fb77613425c8d.js?body=1" for ::1 at 2015-03-18 14:48:43 -0700
+
+
+Started GET "/assets/bootstrap/popover-3dcfaa462d273d183ef52064ce120a5b.js?body=1" for ::1 at 2015-03-18 14:48:43 -0700
+
+
+Started GET "/assets/bootstrap-sprockets-830839b3b00123a30d090955aa74da5c.js?body=1" for ::1 at 2015-03-18 14:48:43 -0700
+
+
+Started GET "/assets/application-3bfbe49e55dd956cd8d256c955676b2b.js?body=1" for ::1 at 2015-03-18 14:48:43 -0700
+
+
+Started POST "/log-in" for ::1 at 2015-03-18 14:49:43 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"jniQZ/7Dd74PJ7j9dY8WJRB4DjTkLYxqFZE8eTR0AKmolDSUYSaBDIC5hxZlN9F4DWnmlglSl8ksUknWik85ww==", "email"=>"asdf", "password"=>"[FILTERED]", "commit"=>"Log in"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1  [["email", "asdf"]]
+Redirected to http://localhost:3000/log-in
+Completed 302 Found in 16ms (ActiveRecord: 2.1ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:49:43 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 113ms (Views: 112.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:49:49 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 81ms (Views: 80.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:50:10 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 79ms (Views: 78.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/log-in" for ::1 at 2015-03-18 14:50:13 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"bGId9eMff2vuPF7HSsQAVTNeQu5koASiTDjLk2Vrv2lKjrkGfPqJ2WGiYSxafMcILk+qTInfHwF1+74821CGAw==", "email"=>"asdf", "password"=>"[FILTERED]", "commit"=>"Log in"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["email", "asdf"]]
+Redirected to http://localhost:3000/log-in
+Completed 302 Found in 2ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:50:13 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 78ms (Views: 77.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/log-in" for ::1 at 2015-03-18 14:50:51 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"45YUMZ+e4cZwCLXLzQI4AXa99K7GsGaai3NN5XavLNjFerDCAHsXdP+WiiDduv9ca6wcDCvPfTmysDhKyJQVsg==", "email"=>"joe@joe.com", "password"=>"[FILTERED]", "commit"=>"Log in"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1  [["email", "joe@joe.com"]]
+Redirected to http://localhost:3000/log-in
+Completed 302 Found in 64ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:50:51 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 60ms (Views: 60.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/log-in" for ::1 at 2015-03-18 14:51:23 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FTUH5cNvSx7ScGirCgqKykeWBSnwgIqzKhOoTUW2BQsz2aMWXIq9rF3uV0Aask2XWoftix3/kRAT0N3i+408YQ==", "email"=>"john@john.com", "password"=>"[FILTERED]", "commit"=>"Log in"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["email", "john@john.com"]]
+Redirected to http://localhost:3000/log-in
+Completed 302 Found in 62ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:51:23 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 61ms (Views: 61.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/log-in" for ::1 at 2015-03-18 14:52:09 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"YMAVkAkQcrIrF6PgPORE4uufNJFgi8hzTJUVZvfj7jVGLLFjlvWEAKSJnAssXIO/9o7cM43009B1VmDJSdjXXw==", "email"=>"joe@joe.com", "password"=>"[FILTERED]", "commit"=>"Log in"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1  [["email", "joe@joe.com"]]
+Redirected to http://localhost:3000/log-in
+Completed 302 Found in 62ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-18 14:52:09 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 66ms (Views: 65.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/log-in" for ::1 at 2015-03-18 14:53:09 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"UkIxQgiEGpC1imiorjrzYKDK+JqJtOaUv1jVRju8l0Z0rpWxl2HsIjoUV0O+gjQ9vdsQOGTL/TeGm6DphYeuLA==", "email"=>"joe@joe.com", "password"=>"[FILTERED]", "commit"=>"Log in"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["email", "joe@joe.com"]]
+Redirected to http://localhost:3000/
+Completed 302 Found in 62ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:53:09 -0700
+Processing by HomeController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 9]]
+  Rendered home/index.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 64ms (Views: 63.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:55:12 -0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 9]]
+  Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 70ms (Views: 69.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:55:13 -0700
+Processing by HomeController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 9]]
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 61ms (Views: 60.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/log-out" for ::1 at 2015-03-18 14:55:17 -0700
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:55:17 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 65ms (Views: 64.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-18 14:55:21 -0700
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 59ms (Views: 58.4ms | ActiveRecord: 0.0ms)
