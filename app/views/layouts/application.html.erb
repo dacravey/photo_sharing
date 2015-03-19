@@ -15,7 +15,7 @@
         <% if current_user %>
           <li><button class="btn btn-danger btn-xs"><%= link_to 'Logout', log_out_path(@user) %></button></li>
           <div class="nav-right">
-          Welcome, <%= current_user.email%>!
+          <%= image_tag current_user.avatar.url(:thumb) %> Welcome, <%= current_user.email%>!
           <li><button class="btn btn-primary btn-xs">Add photo</button></li>
         </div>
           <% else %>
