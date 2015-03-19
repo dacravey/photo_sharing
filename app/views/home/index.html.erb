@@ -1,15 +1,22 @@
 <div class="container">
 
-<h1>Photo Sharing!<small> Under construction</small></h1>
+<h1>Photo Sharing!<small> Share your memories</small></h1>
 
 <% if current_user %>
   <% end %>
 
+<div class="column2" id="images">
+  <% @photos.each do |photo| %>
+    <h4><%= photo.name %> <small><em><%= photo.caption %> by <%= photo.user_id %></em></small> </h4>
+    <%= image_tag photo.photo.url(:medium) %> <br>
+  <% end %>
+</div>
+
 <div class="column">
-  <h3>Users</h3>
+  <h3>Our Members</h3>
     <% @users.each do |person| %>
       <div class="users">
-      <p><%= person.email %> <%= image_tag person.avatar.url(:thumb) %></p>
+      <p><%= image_tag person.avatar.url(:thumb) %> <%= person.email %> </p>
       </div>
     <% end %>
 </div>
