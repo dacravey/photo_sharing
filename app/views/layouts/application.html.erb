@@ -11,10 +11,17 @@
   <div class="nav">
     <nav class="main-nav">
       <ul class="list-unstyled">
-        <li><%= link_to 'Home', "/" %></li>
-        <li><%= link_to 'Login', log_in_path(@user) %></li>
-        <li><%= link_to 'Logout', log_out_path(@user) %></li>
-        <li><%= link_to 'Create Account', new_user_path(@user) %></li>
+          <li><button class="btn btn-primary btn-xs"><%= link_to 'Home', "/" %></button></li>
+        <% if current_user %>
+          <li><button class="btn btn-danger btn-xs"><%= link_to 'Logout', log_out_path(@user) %></button></li>
+          <div class="nav-right">
+          Welcome, <%= current_user.email%>!
+          <li><button class="btn btn-primary btn-xs">Add photo</button></li>
+        </div>
+          <% else %>
+          <li><button class="btn btn-success btn-xs"><%= link_to 'Login', log_in_path(@user) %></button></li>
+          <li><button class="btn btn-warning btn-xs"><%= link_to 'Create Account', new_user_path(@user) %></button></li>
+          <% end %>
       </ul>
     </nav>
   </header>

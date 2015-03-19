@@ -6,14 +6,18 @@
 
 
 a:link {
-  color: green;
+  color: white;
 }
 a:visited {
-  color: green;
+  color: white;
 }
 a:hover{
   color: yellow;
 }
 a:active {
   color: yellow;
+}
+
+.nav-right {
+  float: right;
 }
