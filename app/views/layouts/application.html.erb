@@ -8,29 +8,30 @@
 </head>
 <body>
   <header>
-  <div class="nav">
-    <nav class="main-nav">
-      <ul class="list-unstyled">
-          <li><button class="btn btn-primary btn-xs"><%= link_to 'Home', "/" %></button></li>
-        <% if current_user %>
-          <li><button class="btn btn-danger btn-xs"><%= link_to 'Logout', log_out_path(@user) %></button></li>
-          <div class="nav-right">
-          <%= image_tag current_user.avatar.url(:thumb) %> Welcome, <%= current_user.email%>!
-          <li><button class="btn btn-primary btn-xs">Add photo</button></li>
-        </div>
-          <% else %>
-          <li><button class="btn btn-success btn-xs"><%= link_to 'Login', log_in_path(@user) %></button></li>
-          <li><button class="btn btn-warning btn-xs"><%= link_to 'Create Account', new_user_path(@user) %></button></li>
-          <% end %>
-      </ul>
-    </nav>
+    <div class="container">
+    <div class="nav">
+      <nav class="main-nav">
+        <ul class="list-unstyled">
+            <li><button class="btn btn-primary btn-xs"><%= link_to 'Home', "/" %></button></li>
+          <% if current_user %>
+            <li><button class="btn btn-danger btn-xs"><%= link_to 'Logout', log_out_path(@user) %></button></li>
+            <div class="nav-right">
+            <%= image_tag current_user.avatar.url(:thumb) %> Welcome, <%= current_user.email%>!
+            <li><button class="btn btn-primary btn-xs"><%= link_to 'Profile', '/profile' %></button></li>
+          </div>
+            <% else %>
+            <li><button class="btn btn-success btn-xs"><%= link_to 'Login', log_in_path(@user) %></button></li>
+            <li><button class="btn btn-info btn-xs"><%= link_to 'Create Account', new_user_path(@user) %></button></li>
+            <% end %>
+        </ul>
+      </nav>
+    </div>
+  </div
   </header>
-<%= flash[:alert] %>
-<%= flash[:notice] %>
-<div>
+<div class="container">
+<h5><%= flash[:alert] %></h5>
+<h5><%= flash[:notice] %></h5>
 <%= yield %>
 </div>
-
-  </div>
 </body>
 </html>

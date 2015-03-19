@@ -3,12 +3,13 @@
 <h1>Photo Sharing!<small> Under construction</small></h1>
 
 <% if current_user %>
-  <%= image_tag current_user.avatar.url(:medium) %>
   <% end %>
 
-<ul>
-<% @users.each do |person| %>
-  <li><%= person.email %> <%= image_tag person.avatar %></li>
-  <% end %>
-</ul>
+<div class="column">
+  <h3>Users</h3>
+    <% @users.each do |person| %>
+      <div class="users">
+      <p><%= person.email %> <%= image_tag person.avatar.url(:thumb) %></p>
+      </div>
+    <% end %>
 </div>

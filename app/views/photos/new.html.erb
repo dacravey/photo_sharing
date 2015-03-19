@@ -1,18 +1,13 @@
 <h1>Photo Sharing!<small> Profile</small></h1>
 
 <% if current_user %>
-  <%= image_tag current_user.avatar.url(:medium) %>
   <% end %>
 
 <%= form_for @photo do |f| %>
+  <%= f.label :name %>
+  <%= f.text_field :name %>
   <%= f.label :caption %>
   <%= f.text_field :caption %>
-  <%= f.label :name %>
-  <%= f.password_field :name %>
   <%= f.file_field :photo %>
-  <%= f.submit "Add photo" %>
+  <button class="btn btn-primary btn-xs">Add photo</button>
 <% end %>
-
-<form method="post", action="/users/5/photos">
-  ...some inputs here
-</from>
