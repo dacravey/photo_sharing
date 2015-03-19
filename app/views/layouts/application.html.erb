@@ -7,10 +7,23 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
-
+  <header>
+  <div class="nav">
+    <nav class="main-nav">
+      <ul class="list-unstyled">
+        <li><%= link_to 'Home', "/" %></li>
+        <li><%= link_to 'Login', log_in_path(@user) %></li>
+        <li><%= link_to 'Logout', log_out_path(@user) %></li>
+        <li><%= link_to 'Create Account', new_user_path(@user) %></li>
+      </ul>
+    </nav>
+  </header>
 <%= flash[:alert] %>
 <%= flash[:notice] %>
+<div>
 <%= yield %>
+</div>
 
+  </div>
 </body>
 </html>

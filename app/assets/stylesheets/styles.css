@@ -1,0 +1,19 @@
+.main-nav li {
+  display: inline;
+  margin-right: 1em;
+
+}
+
+
+a:link {
+  color: green;
+}
+a:visited {
+  color: green;
+}
+a:hover{
+  color: yellow;
+}
+a:active {
+  color: yellow;
+}
