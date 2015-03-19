@@ -8,3 +8,7 @@
 <%=f.password_field :password_confirmation %>
 <%=f.submit "Sign Up" %>
 <%end%>
+
+<%= form_for User.new, :url => users_path, :html => { :multipart => true } do |form| %>
+  <%= form.file_field :avatar %>
+<% end %>
