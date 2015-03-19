@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   resources :users
+  resources :photos
 
   get '/' => 'home#index'
   get "/log-in" => "sessions#new"
