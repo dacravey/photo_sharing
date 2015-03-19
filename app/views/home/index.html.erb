@@ -5,4 +5,10 @@
 <% if current_user %>
   <%= image_tag current_user.avatar.url(:medium) %>
   <% end %>
+
+<ul>
+<% User.all.each do |person| %>
+  <li><% person.email %> <% person.avatar %></li>
+  <% end %>
+</ul>
 </div>
