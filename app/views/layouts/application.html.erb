@@ -15,6 +15,9 @@
             <li><button class="btn btn-primary btn-xs"><%= link_to 'Home', "/" %></button></li>
           <% if current_user %>
             <li><button class="btn btn-danger btn-xs"><%= link_to 'Logout', log_out_path(@user) %></button></li>
+            <span class="center">
+              <strong></strong>
+            </span>
             <div class="nav-right">
             <%= image_tag current_user.avatar.url(:thumb) %> Welcome, <%= current_user.email%>!
             <li><button class="btn btn-primary btn-xs"><%= link_to 'Profile', '/profile' %></button></li>

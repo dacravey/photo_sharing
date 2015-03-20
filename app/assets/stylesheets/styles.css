@@ -42,3 +42,11 @@ a:active {
   width: 35px;
   height: 35px;
 }
+#profile img {
+  width: 190px;
+  height: 140px;
+}
+.center {
+  float: center;
+  text-align: center;
+}

@@ -13,10 +13,26 @@ class UsersController < ApplicationController
     end
   end
 
+  def edit
+    @user = User.find(params[:id])
+  end
+
+
+  def update
+    current_user = User.find(params[:id])
+    if current_user.update(user_params)
+      flash[:notice] = "Added to profile!"
+      redirect_to :back
+    else
+      flash[:notice] = "You failed."
+      redirect_to :back
+    end
+  end
+
   private
 
   def user_params
-    params.require(:user).permit(:email, :password, :password_confirmation, :avatar)
+    params.require(:user).permit(:email, :password, :password_confirmation, :avatar, :bio, :interest)
 
   end
 end
