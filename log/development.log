@@ -18435,3 +18435,484 @@ Processing by PhotosController#new as HTML
   [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 3]]
   Rendered photos/new.html.erb within layouts/application (4.2ms)
 Completed 200 OK in 76ms (Views: 75.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for ::1 at 2015-03-19 17:08:06 -0700
+Processing by HomeController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 3]]
+  [1m[36mPhoto Load (0.2ms)[0m  [1mSELECT "photos".* FROM "photos"[0m
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users"
+  Rendered home/index.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 78ms (Views: 76.8ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/profile" for ::1 at 2015-03-19 17:08:10 -0700
+Processing by PhotosController#new as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 3]]
+  Rendered photos/new.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 78ms (Views: 77.2ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/" for ::1 at 2015-03-19 17:08:57 -0700
+Processing by HomeController#index as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 3]]
+  [1m[36mPhoto Load (0.2ms)[0m  [1mSELECT "photos".* FROM "photos"[0m
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users"
+  Rendered home/index.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 73ms (Views: 72.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/profile" for ::1 at 2015-03-19 17:09:00 -0700
+Processing by PhotosController#new as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 3]]
+  Rendered photos/new.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 72ms (Views: 71.0ms | ActiveRecord: 0.1ms)
+
+
+Started PATCH "/users/3" for ::1 at 2015-03-19 17:09:03 -0700
+Processing by UsersController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"hF/ktqlI3eFblM/wfQdpuwntMrONjDcYTyJhGoiZ4jsoJMXT/d5AlbQmAT8UanoCDrEe4jloGIUhi5XAtWITCg==", "id"=>"3"}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 3]]
+Completed 400 Bad Request in 1ms
+
+ActionController::ParameterMissing (param is missing or the value is empty: user):
+  app/controllers/users_controller.rb:35:in `user_params'
+  app/controllers/users_controller.rb:23:in `update'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.1ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (43.7ms)
+Cannot render console with content type multipart/form-dataAllowed content types: [#<Mime::Type:0x007fb31b959310 @synonyms=["application/xhtml+xml"], @symbol=:html, @string="text/html">, #<Mime::Type:0x007fb31b958e88 @synonyms=[], @symbol=:text, @string="text/plain">, #<Mime::Type:0x007fb31b941dc8 @synonyms=[], @symbol=:url_encoded_form, @string="application/x-www-form-urlencoded">]
+
+
+Started PATCH "/users/3" for ::1 at 2015-03-19 17:09:13 -0700
+Processing by UsersController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"GwMrdoWEiEPqlJv8+4y/DKQp2pyz2tlunn4/+aWIIJK3eAoT0RIVNwUmVTOS4ay1o3X2zQc+9vPw18sjmHPRow==", "user"=>{"avatar"=>#<ActionDispatch::Http::UploadedFile:0x007fb31be81590 @tempfile=#<Tempfile:/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/RackMultipart20150319-431-1r5tbmt.jpg>, @original_filename="Funny-Cute-Kittens-8.jpg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"user[avatar]\"; filename=\"Funny-Cute-Kittens-8.jpg\"\r\nContent-Type: image/jpeg\r\n">}, "id"=>"3"}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 3]]
+  [1m[35m (0.1ms)[0m  BEGIN
+Command :: PATH=/usr/local/bin/:$PATH; file -b --mime '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/1463a03fa20e25eedcb6ecc40971699420150319-431-13uzqbo.jpg'
+Command :: PATH=/usr/local/bin/:$PATH; identify -format '%wx%h,%[exif:orientation]' '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/1463a03fa20e25eedcb6ecc40971699420150319-431-1w7mkqf.jpg[0]' 2>/dev/null
+Command :: PATH=/usr/local/bin/:$PATH; identify -format %m '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/1463a03fa20e25eedcb6ecc40971699420150319-431-1w7mkqf.jpg[0]'
+Command :: PATH=/usr/local/bin/:$PATH; convert '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/1463a03fa20e25eedcb6ecc40971699420150319-431-1w7mkqf.jpg[0]' -auto-orient -resize "400x400>" '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/1463a03fa20e25eedcb6ecc40971699420150319-431-1w7mkqf20150319-431-1h3cz5v'
+Command :: PATH=/usr/local/bin/:$PATH; file -b --mime '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/1463a03fa20e25eedcb6ecc40971699420150319-431-1w7mkqf20150319-431-1h3cz5v'
+Command :: PATH=/usr/local/bin/:$PATH; identify -format '%wx%h,%[exif:orientation]' '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/1463a03fa20e25eedcb6ecc40971699420150319-431-1w7mkqf.jpg[0]' 2>/dev/null
+Command :: PATH=/usr/local/bin/:$PATH; identify -format %m '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/1463a03fa20e25eedcb6ecc40971699420150319-431-1w7mkqf.jpg[0]'
+Command :: PATH=/usr/local/bin/:$PATH; convert '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/1463a03fa20e25eedcb6ecc40971699420150319-431-1w7mkqf.jpg[0]' -auto-orient -resize "40x40>" '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/1463a03fa20e25eedcb6ecc40971699420150319-431-1w7mkqf20150319-431-1e8bru0'
+Command :: PATH=/usr/local/bin/:$PATH; file -b --mime '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/1463a03fa20e25eedcb6ecc40971699420150319-431-1w7mkqf20150319-431-1e8bru0'
+Command :: PATH=/usr/local/bin/:$PATH; file -b --mime '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/1463a03fa20e25eedcb6ecc40971699420150319-431-1yke9j6.jpg'
+  [1m[36mSQL (0.3ms)[0m  [1mUPDATE "users" SET "avatar_file_name" = $1, "avatar_file_size" = $2, "avatar_updated_at" = $3, "password_salt" = $4, "password_hash" = $5, "updated_at" = $6 WHERE "users"."id" = $7[0m  [["avatar_file_name", "Funny-Cute-Kittens-8.jpg"], ["avatar_file_size", 85912], ["avatar_updated_at", "2015-03-20 00:09:13.418031"], ["password_salt", "$2a$10$UvdIMq6WanvVfiiVgmQZRO"], ["password_hash", "$2a$10$UvdIMq6WanvVfiiVgmQZROixFJ66A.2imJqDL/cfWyz.AAnAPTuiq"], ["updated_at", "2015-03-20 00:09:13.618832"], ["id", 3]]
+[paperclip] deleting /Users/Guest/Desktop/photo_sharing/public/system/users/avatars/000/000/003/original/Kittens-Go-Quick.jpg
+[paperclip] deleting /Users/Guest/Desktop/photo_sharing/public/system/users/avatars/000/000/003/medium/Kittens-Go-Quick.jpg
+[paperclip] deleting /Users/Guest/Desktop/photo_sharing/public/system/users/avatars/000/000/003/thumb/Kittens-Go-Quick.jpg
+  [1m[35m (0.8ms)[0m  COMMIT
+Redirected to http://localhost:3000/profile
+Completed 302 Found in 221ms (ActiveRecord: 1.3ms)
+
+
+Started GET "/profile" for ::1 at 2015-03-19 17:09:13 -0700
+Processing by PhotosController#new as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 3]]
+  Rendered photos/new.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 81ms (Views: 80.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for ::1 at 2015-03-19 17:09:23 -0700
+Processing by HomeController#index as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 3]]
+  [1m[36mPhoto Load (0.1ms)[0m  [1mSELECT "photos".* FROM "photos"[0m
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users"
+  Rendered home/index.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 83ms (Views: 82.5ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/profile" for ::1 at 2015-03-19 17:09:30 -0700
+Processing by PhotosController#new as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 3]]
+  Rendered photos/new.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 74ms (Views: 73.1ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/log-out" for ::1 at 2015-03-19 17:09:33 -0700
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-19 17:09:33 -0700
+Processing by HomeController#index as HTML
+  [1m[35mPhoto Load (0.2ms)[0m  SELECT "photos".* FROM "photos"
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  Rendered home/index.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 73ms (Views: 71.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/profile" for ::1 at 2015-03-19 17:09:37 -0700
+Processing by PhotosController#new as HTML
+  Rendered photos/new.html.erb within layouts/application (1.5ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (undefined method `email' for nil:NilClass):
+    1: <h1><%= current_user.email %><small> Edit your profile</small></h1>
+    2: <div>
+    3: <div id="profile">
+    4:   <%= image_tag current_user.avatar.url(:medium) %>
+  app/views/photos/new.html.erb:1:in `_app_views_photos_new_html_erb__656915474252589294_70203663401520'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.0ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (41.5ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (35.8ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (88.6ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-19 17:09:45 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 71ms (Views: 70.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-19 17:09:47 -0700
+Processing by HomeController#index as HTML
+  [1m[35mPhoto Load (0.2ms)[0m  SELECT "photos".* FROM "photos"
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  Rendered home/index.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 73ms (Views: 71.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-19 17:09:53 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 68ms (Views: 67.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/log-in" for ::1 at 2015-03-19 17:09:58 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"YR05TvRng2Urgwrj5eJHOwLHr/Nl9M+rUVHSuDh/9dXNZhgroPEeEcQxxCyMj1SCBZuDotEQ4DY/+CZiBYQE5A==", "email"=>"epicodus", "password"=>"[FILTERED]", "commit"=>"Log in"}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1  [["email", "epicodus"]]
+Redirected to http://localhost:3000/log-in
+Completed 302 Found in 61ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-19 17:09:58 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 65ms (Views: 65.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/log-in" for ::1 at 2015-03-19 17:10:06 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"edDiwfhY7DCi7vLZKlhjnhawGrG4qI+XABpgeA28myDVq8OkrM5xRE1cPBZDNXAnEew24AxMoApus5SiMEdqEQ==", "email"=>"epicodus", "password"=>"[FILTERED]", "commit"=>"Log in"}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["email", "epicodus"]]
+Redirected to http://localhost:3000/log-in
+Completed 302 Found in 61ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-19 17:10:06 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 70ms (Views: 69.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-19 17:10:08 -0700
+Processing by HomeController#index as HTML
+  [1m[35mPhoto Load (0.3ms)[0m  SELECT "photos".* FROM "photos"
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  Rendered home/index.html.erb within layouts/application (6.5ms)
+Completed 200 OK in 76ms (Views: 74.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-19 17:10:12 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 69ms (Views: 68.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/log-in" for ::1 at 2015-03-19 17:10:19 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"1m/4OVEJck7t6Q4rwqLYbi+alvfSiDLICZTxGW7/VKx6FNlcBZ/vOgJbwOSrz8vXKMa6pmZsHVVnPQXDUwSlnQ==", "email"=>"snoopdog", "password"=>"[FILTERED]", "commit"=>"Log in"}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1  [["email", "snoopdog"]]
+Redirected to http://localhost:3000/log-in
+Completed 302 Found in 61ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-19 17:10:19 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 65ms (Views: 64.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-03-19 17:10:20 -0700
+Processing by HomeController#index as HTML
+  [1m[36mPhoto Load (0.2ms)[0m  [1mSELECT "photos".* FROM "photos"[0m
+  [1m[35mUser Load (0.1ms)[0m  SELECT "users".* FROM "users"
+  Rendered home/index.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 68ms (Views: 67.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/users/new" for ::1 at 2015-03-19 17:10:21 -0700
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 81ms (Views: 80.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for ::1 at 2015-03-19 17:10:31 -0700
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FT/TWzi8m+SXmy7SLMkcHsobfTVT+1c7lQZe6wl+giy5RPI+bCoGkHgp4B1FpA+nzUdRZOcfeKb7r6oxNIVzHQ==", "user"=>{"email"=>"me", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "avatar"=>#<ActionDispatch::Http::UploadedFile:0x007fb31a559e28 @tempfile=#<Tempfile:/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/RackMultipart20150319-431-kx5vt1.jpeg>, @original_filename="images (1).jpeg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"user[avatar]\"; filename=\"images (1).jpeg\"\r\nContent-Type: image/jpeg\r\n">}}
+Command :: PATH=/usr/local/bin/:$PATH; file -b --mime '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/334deb7b21e3a70079ee47f9582d6df620150319-431-lfvf8l.jpeg'
+Command :: PATH=/usr/local/bin/:$PATH; identify -format '%wx%h,%[exif:orientation]' '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/144cb8381aea8b7eb240d8c884e6549520150319-431-j6qmqe.jpeg[0]' 2>/dev/null
+Command :: PATH=/usr/local/bin/:$PATH; identify -format %m '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/144cb8381aea8b7eb240d8c884e6549520150319-431-j6qmqe.jpeg[0]'
+Command :: PATH=/usr/local/bin/:$PATH; convert '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/144cb8381aea8b7eb240d8c884e6549520150319-431-j6qmqe.jpeg[0]' -auto-orient -resize "400x400>" '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/144cb8381aea8b7eb240d8c884e6549520150319-431-j6qmqe20150319-431-yvrhvs'
+Command :: PATH=/usr/local/bin/:$PATH; file -b --mime '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/144cb8381aea8b7eb240d8c884e6549520150319-431-j6qmqe20150319-431-yvrhvs'
+Command :: PATH=/usr/local/bin/:$PATH; identify -format '%wx%h,%[exif:orientation]' '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/144cb8381aea8b7eb240d8c884e6549520150319-431-j6qmqe.jpeg[0]' 2>/dev/null
+Command :: PATH=/usr/local/bin/:$PATH; identify -format %m '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/144cb8381aea8b7eb240d8c884e6549520150319-431-j6qmqe.jpeg[0]'
+Command :: PATH=/usr/local/bin/:$PATH; convert '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/144cb8381aea8b7eb240d8c884e6549520150319-431-j6qmqe.jpeg[0]' -auto-orient -resize "40x40>" '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/144cb8381aea8b7eb240d8c884e6549520150319-431-j6qmqe20150319-431-q2mx90'
+Command :: PATH=/usr/local/bin/:$PATH; file -b --mime '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/144cb8381aea8b7eb240d8c884e6549520150319-431-j6qmqe20150319-431-q2mx90'
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Exists (0.2ms)[0m  SELECT  1 AS one FROM "users" WHERE "users"."email" = 'me' LIMIT 1
+Command :: PATH=/usr/local/bin/:$PATH; file -b --mime '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/334deb7b21e3a70079ee47f9582d6df620150319-431-tjumop.jpeg'
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("email", "avatar_file_name", "avatar_content_type", "avatar_file_size", "avatar_updated_at", "password_salt", "password_hash", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9) RETURNING "id"[0m  [["email", "me"], ["avatar_file_name", "images_(1).jpeg"], ["avatar_content_type", "image/jpeg"], ["avatar_file_size", 7573], ["avatar_updated_at", "2015-03-20 00:10:31.838103"], ["password_salt", "$2a$10$p3JamcItlEQTFjzXoDRwxu"], ["password_hash", "$2a$10$p3JamcItlEQTFjzXoDRwxuM2VlA19zUlTQez8TgrlEP49A.4U64EW"], ["created_at", "2015-03-20 00:10:31.988136"], ["updated_at", "2015-03-20 00:10:31.988136"]]
+  [1m[35m (0.5ms)[0m  COMMIT
+Redirected to http://localhost:3000/
+Completed 302 Found in 162ms (ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2015-03-19 17:10:32 -0700
+Processing by HomeController#index as HTML
+  [1m[36mPhoto Load (0.2ms)[0m  [1mSELECT "photos".* FROM "photos"[0m
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users"
+  Rendered home/index.html.erb within layouts/application (9.5ms)
+Completed 200 OK in 82ms (Views: 81.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/log-in" for ::1 at 2015-03-19 17:10:38 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 70ms (Views: 70.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/log-in" for ::1 at 2015-03-19 17:10:41 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"yt8CBGUI6vo9veYZXjOX5Nx9cMhJEXvKUsgprY9KhTpmpCNhMZ53jtIPKNY3XoRd2yFcmf31VFc8Yd13srF0Cw==", "email"=>"me", "password"=>"[FILTERED]", "commit"=>"Log in"}
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."email" = $1  ORDER BY "users"."id" ASC LIMIT 1[0m  [["email", "me"]]
+Redirected to http://localhost:3000/
+Completed 302 Found in 61ms (ActiveRecord: 0.3ms)
+
+
+Started GET "/" for ::1 at 2015-03-19 17:10:41 -0700
+Processing by HomeController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 4]]
+  [1m[36mPhoto Load (0.1ms)[0m  [1mSELECT "photos".* FROM "photos"[0m
+  [1m[35mUser Load (0.1ms)[0m  SELECT "users".* FROM "users"
+  Rendered home/index.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 77ms (Views: 76.5ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/profile" for ::1 at 2015-03-19 17:10:47 -0700
+Processing by PhotosController#new as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 4]]
+  Rendered photos/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 81ms (Views: 80.8ms | ActiveRecord: 0.1ms)
+
+
+Started PATCH "/users/4" for ::1 at 2015-03-19 17:10:50 -0700
+Processing by UsersController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"4J26Bg4M7wX5tT4J+NsIBJWZdFSAnCThH6kxE0ZAIXRM5ptjWppycRYH8MaRthu9ksVYBTR4C3xxAMXJe7vQRQ==", "id"=>"4"}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 4]]
+Completed 400 Bad Request in 1ms
+
+ActionController::ParameterMissing (param is missing or the value is empty: user):
+  app/controllers/users_controller.rb:35:in `user_params'
+  app/controllers/users_controller.rb:23:in `update'
+
+
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.5ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/Guest/.gem/ruby/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (42.1ms)
+Cannot render console with content type multipart/form-dataAllowed content types: [#<Mime::Type:0x007fb31b959310 @synonyms=["application/xhtml+xml"], @symbol=:html, @string="text/html">, #<Mime::Type:0x007fb31b958e88 @synonyms=[], @symbol=:text, @string="text/plain">, #<Mime::Type:0x007fb31b941dc8 @synonyms=[], @symbol=:url_encoded_form, @string="application/x-www-form-urlencoded">]
+
+
+Started PATCH "/users/4" for ::1 at 2015-03-19 17:10:57 -0700
+Processing by UsersController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"zzxeNOoj9JYDs3rz8SLd4q9So6IzXYQDtEEPk/ukB81jR39RvrVp4uwBtDyYT85bqA6P84e5q57a6PtJxl/2/A==", "user"=>{"avatar"=>#<ActionDispatch::Http::UploadedFile:0x007fb320816b10 @tempfile=#<Tempfile:/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/RackMultipart20150319-431-u7ebyv.jpeg>, @original_filename="images.jpeg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"user[avatar]\"; filename=\"images.jpeg\"\r\nContent-Type: image/jpeg\r\n">}, "id"=>"4"}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 4]]
+  [1m[35m (0.1ms)[0m  BEGIN
+Command :: PATH=/usr/local/bin/:$PATH; file -b --mime '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/59b514174bffe4ae402b3d63aad79fe020150319-431-176froi.jpeg'
+Command :: PATH=/usr/local/bin/:$PATH; identify -format '%wx%h,%[exif:orientation]' '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/59b514174bffe4ae402b3d63aad79fe020150319-431-1t8l0pi.jpeg[0]' 2>/dev/null
+Command :: PATH=/usr/local/bin/:$PATH; identify -format %m '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/59b514174bffe4ae402b3d63aad79fe020150319-431-1t8l0pi.jpeg[0]'
+Command :: PATH=/usr/local/bin/:$PATH; convert '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/59b514174bffe4ae402b3d63aad79fe020150319-431-1t8l0pi.jpeg[0]' -auto-orient -resize "400x400>" '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/59b514174bffe4ae402b3d63aad79fe020150319-431-1t8l0pi20150319-431-qzxf3f'
+Command :: PATH=/usr/local/bin/:$PATH; file -b --mime '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/59b514174bffe4ae402b3d63aad79fe020150319-431-1t8l0pi20150319-431-qzxf3f'
+Command :: PATH=/usr/local/bin/:$PATH; identify -format '%wx%h,%[exif:orientation]' '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/59b514174bffe4ae402b3d63aad79fe020150319-431-1t8l0pi.jpeg[0]' 2>/dev/null
+Command :: PATH=/usr/local/bin/:$PATH; identify -format %m '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/59b514174bffe4ae402b3d63aad79fe020150319-431-1t8l0pi.jpeg[0]'
+Command :: PATH=/usr/local/bin/:$PATH; convert '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/59b514174bffe4ae402b3d63aad79fe020150319-431-1t8l0pi.jpeg[0]' -auto-orient -resize "40x40>" '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/59b514174bffe4ae402b3d63aad79fe020150319-431-1t8l0pi20150319-431-obyprw'
+Command :: PATH=/usr/local/bin/:$PATH; file -b --mime '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/59b514174bffe4ae402b3d63aad79fe020150319-431-1t8l0pi20150319-431-obyprw'
+Command :: PATH=/usr/local/bin/:$PATH; file -b --mime '/var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/T/59b514174bffe4ae402b3d63aad79fe020150319-431-e2en8d.jpeg'
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "users" SET "avatar_file_name" = $1, "avatar_file_size" = $2, "avatar_updated_at" = $3, "password_salt" = $4, "password_hash" = $5, "updated_at" = $6 WHERE "users"."id" = $7[0m  [["avatar_file_name", "images.jpeg"], ["avatar_file_size", 7904], ["avatar_updated_at", "2015-03-20 00:10:57.413145"], ["password_salt", "$2a$10$AbMY/S06BW.Fs4bHriN3BO"], ["password_hash", "$2a$10$AbMY/S06BW.Fs4bHriN3BOSxF.5oMgB3zGM9EcwQ0s06ywVu4q86O"], ["updated_at", "2015-03-20 00:10:57.561485"], ["id", 4]]
+[paperclip] deleting /Users/Guest/Desktop/photo_sharing/public/system/users/avatars/000/000/004/original/images_(1).jpeg
+[paperclip] deleting /Users/Guest/Desktop/photo_sharing/public/system/users/avatars/000/000/004/medium/images_(1).jpeg
+[paperclip] deleting /Users/Guest/Desktop/photo_sharing/public/system/users/avatars/000/000/004/thumb/images_(1).jpeg
+  [1m[35m (0.4ms)[0m  COMMIT
+Redirected to http://localhost:3000/profile
+Completed 302 Found in 168ms (ActiveRecord: 0.9ms)
+
+
+Started GET "/profile" for ::1 at 2015-03-19 17:10:57 -0700
+Processing by PhotosController#new as HTML
+  [1m[36mUser Load (0.6ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 4]]
+  Rendered photos/new.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 81ms (Views: 79.9ms | ActiveRecord: 0.6ms)
+
+
+Started PATCH "/users/4" for ::1 at 2015-03-19 17:11:02 -0700
+Processing by UsersController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"9TiEbJDSwd9LiiMGx41XsW4hBg04ARuxyuQi4P2DLHtZQ6UJxERcq6Q47cmu4EQIaX0qXIzlNCykTdY6wHjdSg==", "user"=>{"bio"=>"wehwiehrwieuhrlweirhwelirhwleirwer"}, "id"=>"4"}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 4]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.3ms)[0m  UPDATE "users" SET "bio" = $1, "password_salt" = $2, "password_hash" = $3, "updated_at" = $4 WHERE "users"."id" = $5  [["bio", "wehwiehrwieuhrlweirhwelirhwleirwer"], ["password_salt", "$2a$10$BtaLd7AwLgYZQ7pTng9Qt."], ["password_hash", "$2a$10$BtaLd7AwLgYZQ7pTng9Qt.FSKWKZkRIOIi8ogTRtdK/YkOb1eSv1G"], ["updated_at", "2015-03-20 00:11:02.819435"], ["id", 4]]
+  [1m[36m (0.7ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/profile
+Completed 302 Found in 63ms (ActiveRecord: 1.1ms)
+
+
+Started GET "/profile" for ::1 at 2015-03-19 17:11:02 -0700
+Processing by PhotosController#new as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 4]]
+  Rendered photos/new.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 76ms (Views: 75.5ms | ActiveRecord: 0.2ms)
+
+
+Started PATCH "/users/4" for ::1 at 2015-03-19 17:11:06 -0700
+Processing by UsersController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Atzb4/iJZ+zahw+wMiKstmzsWrKUHB8ygW97qPxejhiup/qGrB/6mDU1wX9bT78Pa7B24yD4MK/vxo9ywaV/KQ==", "user"=>{"interest"=>"wpoerjwpeorjwpeojrwpeorjwpeorjwpeorj"}, "id"=>"4"}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 4]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "users" SET "interest" = $1, "password_salt" = $2, "password_hash" = $3, "updated_at" = $4 WHERE "users"."id" = $5[0m  [["interest", "wpoerjwpeorjwpeojrwpeorjwpeorjwpeorj"], ["password_salt", "$2a$10$LYR.akdwzFS5gADVal76be"], ["password_hash", "$2a$10$LYR.akdwzFS5gADVal76beUPFBOraZ6NhFKY.bb8LFXRcYt3n0zvm"], ["updated_at", "2015-03-20 00:11:06.243594"], ["id", 4]]
+  [1m[35m (0.6ms)[0m  COMMIT
+Redirected to http://localhost:3000/profile
+Completed 302 Found in 63ms (ActiveRecord: 0.9ms)
+
+
+Started GET "/profile" for ::1 at 2015-03-19 17:11:06 -0700
+Processing by PhotosController#new as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 4]]
+  Rendered photos/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 83ms (Views: 82.5ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/" for ::1 at 2015-03-19 17:11:10 -0700
+Processing by HomeController#index as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 4]]
+  [1m[36mPhoto Load (0.2ms)[0m  [1mSELECT "photos".* FROM "photos"[0m
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users"
+  Rendered home/index.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 74ms (Views: 73.0ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/profile" for ::1 at 2015-03-19 17:11:13 -0700
+Processing by PhotosController#new as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 4]]
+  Rendered photos/new.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 72ms (Views: 71.4ms | ActiveRecord: 0.1ms)
+
+
+Started PATCH "/users/4" for ::1 at 2015-03-19 17:11:17 -0700
+Processing by UsersController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DZtwiInYAz3ZN8GZiRKZpxqoBRerhcr8B3q/yuBqWcmh4FHt3U6eSTaFD1bgf4oeHfQpRh9h5WFp00sQ3ZGo+A==", "user"=>{"bio"=>"wehwiehrwdfgdfgdfg"}, "id"=>"4"}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 4]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "users" SET "bio" = $1, "password_salt" = $2, "password_hash" = $3, "updated_at" = $4 WHERE "users"."id" = $5  [["bio", "wehwiehrwdfgdfgdfg"], ["password_salt", "$2a$10$2lTjNE1acUrvpaAQO2HCHu"], ["password_hash", "$2a$10$2lTjNE1acUrvpaAQO2HCHu/2A0keqA/Akp94rdrhHm4caS9L9yN6O"], ["updated_at", "2015-03-20 00:11:17.347189"], ["id", 4]]
+  [1m[36m (0.6ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/profile
+Completed 302 Found in 64ms (ActiveRecord: 0.9ms)
+
+
+Started GET "/profile" for ::1 at 2015-03-19 17:11:17 -0700
+Processing by PhotosController#new as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 4]]
+  Rendered photos/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 69ms (Views: 68.2ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/profile" for ::1 at 2015-03-19 17:11:27 -0700
+Processing by PhotosController#new as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 4]]
+  Rendered photos/new.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 73ms (Views: 72.5ms | ActiveRecord: 0.1ms)
+
+
+Started PATCH "/users/4" for ::1 at 2015-03-19 17:11:40 -0700
+Processing by UsersController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+VTw0BdDcKsal8a39DsPm8BYUuxC/Rl4KPSmnvnjlNRVL9G1Q9Xt3/UlCHidVhwixwR+vfYZNuVGXVJExBhl5Q==", "user"=>{"interest"=>"wpoerjwpeorjwpeojrwpeorjwpeorjwpeordfgdfgdfgdfgdfgdfgdfgj"}, "id"=>"4"}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 4]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  UPDATE "users" SET "interest" = $1, "password_salt" = $2, "password_hash" = $3, "updated_at" = $4 WHERE "users"."id" = $5  [["interest", "wpoerjwpeorjwpeojrwpeorjwpeorjwpeordfgdfgdfgdfgdfgdfgdfgj"], ["password_salt", "$2a$10$LNF/.AT1L6nO7SzCSmoYT."], ["password_hash", "$2a$10$LNF/.AT1L6nO7SzCSmoYT.lbveoLl3d4JwghlFByHF6AviiVAhaIe"], ["updated_at", "2015-03-20 00:11:40.523898"], ["id", 4]]
+  [1m[36m (0.6ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/profile
+Completed 302 Found in 64ms (ActiveRecord: 0.9ms)
+
+
+Started GET "/profile" for ::1 at 2015-03-19 17:11:40 -0700
+Processing by PhotosController#new as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 4]]
+  Rendered photos/new.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 70ms (Views: 69.1ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/profile" for ::1 at 2015-03-19 17:11:46 -0700
+Processing by PhotosController#new as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 4]]
+  Rendered photos/new.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 69ms (Views: 68.7ms | ActiveRecord: 0.1ms)
+
+
+Started PATCH "/users/4" for ::1 at 2015-03-19 17:11:52 -0700
+Processing by UsersController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"rXAM8t4cywRX8kj2T4FwUoo6sMlP5G1h1G3d7LxUFjMBCy2XiopWcLhAhjkm7GPrjWacmPsAQvy6xCk2ga/nAg==", "user"=>{"bio"=>"wehwiehrwdfgdfgdfgdfgdfgdf"}, "id"=>"4"}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 4]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "users" SET "bio" = $1, "password_salt" = $2, "password_hash" = $3, "updated_at" = $4 WHERE "users"."id" = $5  [["bio", "wehwiehrwdfgdfgdfgdfgdfgdf"], ["password_salt", "$2a$10$gnH/Xs0/iDpE9PWEEIVfm."], ["password_hash", "$2a$10$gnH/Xs0/iDpE9PWEEIVfm.wTV9XHcTTSCh9ASbTe9JBNj10l7Ayae"], ["updated_at", "2015-03-20 00:11:52.617247"], ["id", 4]]
+  [1m[36m (0.7ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/profile
+Completed 302 Found in 65ms (ActiveRecord: 1.0ms)
+
+
+Started GET "/profile" for ::1 at 2015-03-19 17:11:52 -0700
+Processing by PhotosController#new as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 4]]
+  Rendered photos/new.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 69ms (Views: 68.0ms | ActiveRecord: 0.1ms)
+
+
+Started PATCH "/users/4" for ::1 at 2015-03-19 17:11:56 -0700
+Processing by UsersController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"jdNRLf0FgLSo56z7kbDeBIkDP4xhTA8dw86vN65uUi4hqHBIqZMdwEdVYjT43c29jl8T3dWoIICtZ1vtk5WjHw==", "user"=>{"interest"=>"wpoerjwpeorjwpeojrwpeorjwpeorjwpeordfgdfgdfgdfgdfgdfgdfdfgdfgfgj"}, "id"=>"4"}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 4]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "users" SET "interest" = $1, "password_salt" = $2, "password_hash" = $3, "updated_at" = $4 WHERE "users"."id" = $5[0m  [["interest", "wpoerjwpeorjwpeojrwpeorjwpeorjwpeordfgdfgdfgdfgdfgdfgdfdfgdfgfgj"], ["password_salt", "$2a$10$NPg5F/TN8y9L8kodVgyvqO"], ["password_hash", "$2a$10$NPg5F/TN8y9L8kodVgyvqOP/N76qgCW..ZqR1IkCXyO0HnJKEbvLS"], ["updated_at", "2015-03-20 00:11:56.633095"], ["id", 4]]
+  [1m[35m (0.7ms)[0m  COMMIT
+Redirected to http://localhost:3000/profile
+Completed 302 Found in 64ms (ActiveRecord: 1.0ms)
+
+
+Started GET "/profile" for ::1 at 2015-03-19 17:11:56 -0700
+Processing by PhotosController#new as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", 4]]
+  Rendered photos/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 77ms (Views: 76.2ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/profile" for ::1 at 2015-03-19 17:12:11 -0700
+Processing by PhotosController#new as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", 4]]
+  Rendered photos/new.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 559ms (Views: 558.4ms | ActiveRecord: 0.1ms)
